@@ -1,7 +1,5 @@
 # 💻 Arsenii Șubenok
 
-![Profile Banner](https://via.placeholder.com/1200x400?text=Welcome+to+my+GitHub!)
-
 ## 👨‍💻 About Me
 
 🎓 **3rd-year student** at *UTM, Faculty of Computers, Informatics, and Microelectronics*, Chișinău, Moldova  
