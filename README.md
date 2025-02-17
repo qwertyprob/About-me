@@ -15,4 +15,4 @@
 - 💬 [Telegram](https://t.me/gwertysprob)
 
 
-📄 [Download my CV](./cv.pdf)
+## 📄 [Download my CV](./cv.pdf)
